@@ -1,0 +1,1 @@
+var json_TerrenoReto_4 = {"type":"FeatureCollection","name":"TerrenoReto_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"latitude":19.42481,"longitude":-99.15659,"label":null},"geometry":{"type":"Point","coordinates":[-99.156591385226236,19.424806121087286]}}]}
